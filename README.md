@@ -1,4 +1,4 @@
-# C1GamesStarterKit
+# C1GamesStarterKit from https://terminal.c1games.com/
 
 Welcome to the C1 Terminal Starter Kit! The repository contains a collection of scripts and 
 language-specific starter algos, to help you start your journey to develop the ultimate algo.
