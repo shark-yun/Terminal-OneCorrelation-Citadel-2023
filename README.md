@@ -1,4 +1,4 @@
-# C1GamesStarterKit from https://terminal.c1games.com/
+# C1GamesStarterKit
 
 Welcome to the C1 Terminal Starter Kit! The repository contains a collection of scripts and 
 language-specific starter algos, to help you start your journey to develop the ultimate algo.
@@ -63,3 +63,7 @@ Java algos require the Java Development Kit. Java algos also require [Gradle]
 
 To run your algo locally or on our servers, or to enroll your algo in a competition, please see the [documentation 
 for the Terminal command line interface in the scripts directory](https://github.com/correlation-one/AIGamesStarterKit/tree/master/scripts)
+
+
+from https://terminal.c1games.com/
+
